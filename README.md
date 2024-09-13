@@ -1,8 +1,8 @@
-# crud-django-react
+# 📌 crud-django-react
 
 Este proyecto, llamado **crud-django-react**, es una aplicación web que permite crear, actualizar y eliminar tareas.
 
-## Descripción
+## 📜 Descripción
 
 La aplicación proporciona una interfaz sencilla e intuitiva para gestionar tareas. Los usuarios pueden:
 
@@ -11,16 +11,20 @@ La aplicación proporciona una interfaz sencilla e intuitiva para gestionar tare
 - Actualizar las tareas existentes.
 - Eliminar las tareas que ya no sean necesarias.
 
-## Tecnologías utilizadas
+## 💻 Tecnologías utilizadas
 
-- **Django**: Framework de desarrollo web para construir el backend, gestionar la base de datos y manejar la lógica del servidor.
-- **React**: Biblioteca de JavaScript utilizada para construir la interfaz de usuario (frontend) de la aplicación.
-- **TailwindCSS**: Framework de CSS utilizado para diseñar la interfaz de usuario de manera rápida y eficiente.
-- **Axios**: Librería de JavaScript utilizada para realizar solicitudes HTTP desde el frontend al backend.
-- **ViteJS**: Herramienta de desarrollo que proporciona un entorno rápido y moderno para construir aplicaciones frontend.
-- **venv**: Entorno virtual de Python utilizado para gestionar las dependencias del proyecto de forma aislada.
+<div>
+    
+![Django](https://img.shields.io/badge/Django-092E20.svg?style=for-the-badge&logo=Django&logoColor=white) &nbsp;
+![React](https://img.shields.io/badge/React-61DAFB.svg?style=for-the-badge&logo=React&logoColor=black) &nbsp;
+![Tailwindcss](https://img.shields.io/badge/Tailwind%20CSS-06B6D4.svg?style=for-the-badge&logo=Tailwind-CSS&logoColor=white) &nbsp;
+![Axios](https://img.shields.io/badge/Axios-5A29E4.svg?style=for-the-badge&logo=Axios&logoColor=white) &nbsp;
+![Vitejs](https://img.shields.io/badge/Vite-646CFF.svg?style=for-the-badge&logo=Vite&logoColor=white) &nbsp;
+![Python](https://img.shields.io/badge/Python-ffec00.svg?style=for-the-badge&logo=Python&logoColor=006ed6) &nbsp;
 
-## Instalación y configuración
+</div>
+
+## ℹ️ Instalación y configuración
 
 Sigue los siguientes pasos para instalar y ejecutar el proyecto en tu máquina local:
 
@@ -31,7 +35,7 @@ git clone https://github.com/carloscantero11/crud-django-react.git
 cd crud-django-react
 ```
 
-### Backend (Django)
+### ⚒️Backend (Django)
 
 1. Crea un entorno virtual:
 
@@ -68,7 +72,7 @@ cd crud-django-react
     python manage.py runserver
     ```
 
-### Frontend (React)
+### 🖌️ Frontend (React)
 
 1. Dirígete a la carpeta client:
 
@@ -88,14 +92,14 @@ cd crud-django-react
     npm run dev
     ```
 
-## Uso
+## 👉 Uso
 
 Una vez que ambos servidores estén en funcionamiento, puedes acceder a la aplicación desde tu navegador en `http://localhost:5173`. Desde allí, podrás crear, actualizar y eliminar tareas.
 
-## Licencia
+## 📝 Licencia
 
 Este proyecto está licenciado bajo la [Licencia MIT](LICENSE).
 
-## Autor
+## 🖋️ Autor
 
 - [Carlos Cantero](https://github.com/carloscantero11)
