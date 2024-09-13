@@ -35,7 +35,7 @@ git clone https://github.com/carloscantero11/crud-django-react.git
 cd crud-django-react
 ```
 
-### ⚒️Backend (Django)
+### ⚒️ Backend (Django)
 
 1. Crea un entorno virtual:
 
