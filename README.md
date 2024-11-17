@@ -1,15 +1,15 @@
-# 📌 crud-django-react
+# 📌 Crud de Tareas
 
-Este proyecto, llamado **crud-django-react**, es una aplicación web que permite crear, actualizar y eliminar tareas.
+Este proyecto, llamado **crud_de_tareas**, es una aplicación web que permite crear, actualizar y eliminar tareas.
 
 ## 📜 Descripción
 
 La aplicación proporciona una interfaz sencilla e intuitiva para gestionar tareas. Los usuarios pueden:
 
-- Crear nuevas tareas con un título y una descripción.
-- Ver la lista de tareas existentes.
-- Actualizar las tareas existentes.
-- Eliminar las tareas que ya no sean necesarias.
+- **Crear** nuevas tareas especificando un título y una descripción.
+- **Ver** una lista de todas las tareas existentes.
+- **Actualizar** las tareas existentes para modificar su contenido.
+- **Eliminar** tareas que ya no sean necesarias.
 
 ## 💻 Tecnologías utilizadas
 
@@ -37,13 +37,7 @@ cd crud-django-react
 
 ### ⚒️ Backend (Django)
 
-1. Crea un entorno virtual:
-
-    ```bash
-    python -m venv venv
-    ```
-
-2. Activa el entorno virtual:
+1. Activa el entorno virtual:
 
     - En Windows:
         ```bash
@@ -54,19 +48,24 @@ cd crud-django-react
         source venv/bin/activate
         ```
 
-3. Instala las dependencias necesarias:
+2. Instala las dependencias necesarias:
 
     ```bash
     pip install -r requirements.txt
     ```
 
-4. Aplica las migraciones de la base de datos:
+3. Instala CoreApi:
+   ```py
+   pip install coreapi
+   ```
+
+5. Aplica las migraciones de la base de datos:
 
     ```bash
     python manage.py migrate
     ```
 
-5. Inicia el servidor de desarrollo de Django:
+6. Inicia el servidor de desarrollo de Django:
 
     ```bash
     python manage.py runserver
@@ -91,6 +90,17 @@ cd crud-django-react
     ```bash
     npm run dev
     ```
+## 🖼️ Imagenes
+<br/>
+
+<div align="center">
+<img src="https://github.com/user-attachments/assets/8c95cf9e-0b74-42bb-a812-e2088f2ebfdb" /> &nbsp;
+<img src="https://github.com/user-attachments/assets/dcecbcf3-92a2-41e5-b845-5647ca9b5a9c" /> &nbsp;
+<img src="https://github.com/user-attachments/assets/b84786c0-807c-43b7-a455-3f9455c88cf4" />
+</div>
+
+
+<br/>
 
 ## 👉 Uso
 
