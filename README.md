@@ -1,8 +1,18 @@
 # 📌 Crud de Tareas
 
-Este proyecto, llamado **crud_de_tareas**, es una aplicación web que permite crear, actualizar y eliminar tareas.
+## 📑 Tabla de Contenido  
+- [Descripción](#-descripción)  
+- [Tecnologías Utilizadas](#-tecnologías-utilizadas)  
+- [Instalación y Configuración](#ℹ️-instalación-y-configuración)  
+- [Backend (Django)](#%EF%B8%8F-backend-django)  
+- [Frontend (React)](#%EF%B8%8F-frontend-react)  
+- [Imágenes](#%EF%B8%8F-imagenes)  
+- [Uso](#-uso)  
+- [Licencia](#-licencia)  
+- [Autor](#%EF%B8%8F-autor)  
 
 ## 📜 Descripción
+Este proyecto, llamado **crud_de_tareas**, es una aplicación web que permite crear, actualizar y eliminar tareas.
 
 La aplicación proporciona una interfaz sencilla e intuitiva para gestionar tareas. Los usuarios pueden:
 
